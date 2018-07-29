@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 28th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Davud Dautbasic
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we made changes to a basic webpage and added effects and animations to it so it seemed better.
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned how to use the DOM in order to preview changes.
+2. In this lesson I learned how to create a hover over effect to display hidden items. 
+3. In this lesson I learned how to use the display function.
 
