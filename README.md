@@ -13,8 +13,7 @@ Davud Dautbasic
 In this project, we made changes to a basic webpage and added effects and animations to it so it seemed better.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://davuddautbasic.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. In this lesson I learned how to use the DOM in order to preview changes.
